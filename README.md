@@ -22,7 +22,7 @@ This project - this project is the result of my work and research in the field o
 
 ## Demo
 
-You can view a demo of my project at the following link: [Demo "Your Project Name"](add a link to your demo here).
+You can view a demo of my project at the following link: [Demo link](https://andriiyelieva.github.io/Apple_Shop/).
 
 ## Launching the Project.
 

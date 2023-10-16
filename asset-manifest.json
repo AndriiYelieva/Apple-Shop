@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.36878686.chunk.css",
+    "main.js": "./static/js/main.0a0730c0.chunk.js",
+    "main.js.map": "./static/js/main.0a0730c0.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8c9895b1.js.map",
+    "static/css/2.51bc462d.chunk.css": "./static/css/2.51bc462d.chunk.css",
+    "static/js/2.face9453.chunk.js": "./static/js/2.face9453.chunk.js",
+    "static/js/2.face9453.chunk.js.map": "./static/js/2.face9453.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.51bc462d.chunk.css.map": "./static/css/2.51bc462d.chunk.css.map",
+    "static/css/main.36878686.chunk.css.map": "./static/css/main.36878686.chunk.css.map",
+    "static/js/2.face9453.chunk.js.LICENSE.txt": "./static/js/2.face9453.chunk.js.LICENSE.txt",
+    "static/media/Accessories.c89ddada.png": "./static/media/Accessories.c89ddada.png",
+    "static/media/buttonBack.scss": "./static/media/ArrowLeft.1bace788.svg",
+    "static/media/likeAlso.scss": "./static/media/ArrowRight.47e080a2.svg",
+    "static/media/menu.scss": "./static/media/Home.064fcd18.svg",
+    "static/media/footer.scss": "./static/media/ArrowTop.5d09135c.svg",
+    "static/media/navigation.scss": "./static/media/Shopping.8a5a5bdf.svg",
+    "static/media/cartContent.scss": "./static/media/ButtonPlusActive.696beb0f.svg",
+    "static/media/productParams.scss": "./static/media/FavouritesSelected.e9f34327.svg",
+    "static/media/Phones.9d91280e.png": "./static/media/Phones.9d91280e.png",
+    "static/media/search.scss": "./static/media/Search.e6366c67.svg",
+    "static/media/Tablets.ab919a9b.png": "./static/media/Tablets.ab919a9b.png",
+    "static/media/banner-accessories.bf0f1fbf.png": "./static/media/banner-accessories.bf0f1fbf.png",
+    "static/media/banner-phones.6aba00f4.png": "./static/media/banner-phones.6aba00f4.png",
+    "static/media/banner-tablets.2e5de25c.png": "./static/media/banner-tablets.2e5de25c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9895b1.js",
+    "static/css/2.51bc462d.chunk.css",
+    "static/js/2.face9453.chunk.js",
+    "static/css/main.36878686.chunk.css",
+    "static/js/main.0a0730c0.chunk.js"
+  ]
+}

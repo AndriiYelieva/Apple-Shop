@@ -73,14 +73,26 @@ export const PhonesPage: React.FC<Props> = ({ phones, isLoading }) => {
             {searchQuery !== ''
               ? (
                 <>
-                  <div className="title">
-                    <p className="title__p">{`${searchInPhones.length} results`}</p>
-                  </div>
-                  <section className="phones__list">
-                    {searchInPhones.map(phone => (
-                      <ProductCard phone={phone} key={phone.id} />
-                    ))}
-                  </section>
+                  {searchInPhones.length !== 0
+                    ? (
+                      <>
+                        <div className="title">
+                          <p className="title__p">{`${searchInPhones.length} results`}</p>
+                        </div>
+                        <section className="phones__list">
+                          {searchInPhones.map(phone => (
+                            <ProductCard phone={phone} key={phone.id} />
+                          ))}
+                        </section>
+                      </>
+                    )
+                    : (
+                      <>
+                        <div className="title">
+                          <p className="title__nothing">We found nothing👀</p>
+                        </div>
+                      </>
+                    )}
                 </>
               )
               : (

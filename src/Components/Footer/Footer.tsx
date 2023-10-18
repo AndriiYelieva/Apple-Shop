@@ -34,7 +34,11 @@ export const Footer: React.FC = () => {
   return (
     <footer className="footer">
       <div className="container">
-        <div className="container__logo" />
+        <Link
+          to="/"
+          className="container__logo"
+          onClick={scrollToTop}
+        />
         <div className="container__description">
           <a
             className="container__link"

@@ -24,7 +24,7 @@ This project - this project is the result of my work and research in the field o
 
 You can view a demo of my project at the following link: [Demo link](https://andriiyelieva.github.io/Apple_Shop/).
 
-Design Mockup
+## Design Mockup
 To view the design mockup for this project, click on the following link: [Design Mockup](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2&mode=dev).
 
 ## Launching the Project.

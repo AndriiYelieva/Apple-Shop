@@ -14,7 +14,7 @@ This project - this project is the result of my work and research in the field o
 
 - **SCSS (Sass)**: I use SCSS to create stylish and well-structured styles for my application.
 
-- **Redux і Redux Persist**: I use Redux to efficiently manage application state and Redux Persist to preserve that state after a reboot.
+- **Redux і Redux Persist**: I use Redux to efficiently manage the application state and Redux Persist to preserve that state after a reboot.
 
 - **React Router DOM**: I use React Router DOM to navigate between pages and to create a friendly URL structure.
 
@@ -22,7 +22,7 @@ This project - this project is the result of my work and research in the field o
 
 ## Demo
 
-You can view a demo of my project at the following link: [Demo link](https://andriiyelieva.github.io/Apple_Shop/).
+You can view a demo of my project at the following link: [Demo link](https://andriiyelieva.github.io/Apple_Store/).
 
 ## Design Mockup
 To view the design mockup for this project, click on the following link: [Design Mockup](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2&mode=dev).
